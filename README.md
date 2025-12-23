@@ -1,67 +1,122 @@
-👋 Hey Kouss ay Mehdouani,
-🎓 3rd-year Baccalaureate (Computer Science) – Tunisia
-🧙‍♂️ Self-taught Hogwarts alumnus | Full-Stack Wizard | Creator of gamified focus spells
-☁️ Obsessed with Cloud magic, Digital Security & UX – dreaming of coding in a real gothic castle under a thunderstorm 🖤
-🚀 What I'm Conjuring Right Now
-CodeMind – Gamified code typing speed & accuracy trainer (VS Code vibes, multilingual, error stats like detecting dark curses)
-FocusMate-Cloud – Smart study companion with UX-driven breaks, virtual "Study-With-Me" sessions, and a powerful cloud backend
-Exploring AWS CloudOps, API Testing, and dark arts of Information Security (Horcrux-level protection)
-🛠️ My Spellbook & Arsenal
-Frontend     : React · JavaScript · HTML5 · CSS3 · Tailwind · Canvas (for digital Quidditch games)
-Backend      : Node.js · Express · Flask · Python (Accio scalability!)
-Cloud        : Microsoft Azure · AWS (prepping for Cloud Practitioner like O.W.L.s)
-Security     : ISO/IEC 27001:2022 Certified (better data protection than a Fidelius Charm)
-Tools        : Git · VS Code · CodeMirror · Postman · Figma
-Other        : API Testing · Prompt Engineering · Human-Centered Design · Interaction Design
-🌟 Featured Projects (Survived the Chamber of Secrets)
-Project
-Description
-Tech Stack
-Live Demo / Repo
-CodeMind
-Gamified typing trainer for coders – error analysis like spotting Imperius
-HTML, CSS, JS, CodeMirror, i18n
-codeees.netlify.app
-Drive Mad Clone
-Addictive high-speed driving game – mobile-friendly physics
-HTML5 Canvas, JavaScript
-aloukti.netlify.app
-Escape Road
-Endless runner – dodge Auror cars with butter-smooth controls
-HTML5 Canvas, JavaScript
-koussaygame.netlify.app
-Kouss ay's Weather
-Real-time weather app with dark mode & dynamic icons (Patronus vibes)
-React, OpenWeather API, CSS
-koussaysweather.netlify.app
-FocusMate-Cloud
-UX-focused study buddy – smart breaks, virtual sessions, cloud backend (WIP)
-Python, Flask, AWS Lambda, React
-GitHub
-Personal Portfolio
-Clean showcase of my wizarding journey & projects
-HTML, CSS, JS, React
-koussaymehdouani.netlify.app
-🏆 Magical Certifications (2025 – All verified with Veritaserum)
-ISO/IEC 27001:2022 Information Security Associate™ – SkillFront – November 23, 2025
-API Testing in JavaScript – TestAutomationU – November 22, 2025
-Host a Web App with Azure App Service – Microsoft – November 15, 2025
-Learn the Basics of Web Accessibility – Microsoft – November 15, 2025
-Get Started with Web Development using Visual Studio Code – Microsoft – November 15, 2025
-Introduction to Prompt Engineering with GitHub Copilot – Microsoft – November 15, 2025
-إنجاز تدريبي – التعليم الرقمي (Digital Education Achievement) – منصة معارف (Marif) – December 19, 2025
-freeCodeCamp – Responsive Web Design (300h) – freeCodeCamp – November 2025
-freeCodeCamp – JavaScript Algorithms & Data Structures (300h) – freeCodeCamp – November 2025
-freeCodeCamp – Front End Development Libraries (300h) – freeCodeCamp – October 2025
-Python for Data Science (95.14%) – Saylor Academy – October 2025
-Cisco Networking Academy – Python Essentials 1 – Cisco – October 2025
-Introduction to Interaction Design – OpenLearn (Open University UK) – October 2025
-Introduction to Human-Centered Design – IDEO / Acumen Academy – October 2025
-📁 All certificates verified here: Google Drive Folder  (ضيف اللينك بتاعك لو عايز)
-💭 About Me
-Obsessed with turning learning & focus into a magical adventure – from endless runners to secure cloud tools.
-Self-taught since 2025, certified in security & cloud, forever chasing that rainy, gothic Hogwarts atmosphere under stormy skies.
-📫 Connect:
-LinkedIn | Email: koussaykaskoussa@gmail.com | GitHub: @koussaymehdouani
-"Every great interface is a quiet conversation… with a touch of real magic."
-– me, coding under a stormy sky ☕🖤
+# 🧙‍♂️ Kouss ay Mehdouani
+
+**3rd-Year Baccalaureate – Computer Science (Tunisia)**  
+Self-Taught Full-Stack Developer · Cloud & Security Enthusiast · UX-Driven Builder  
+
+> Turning learning, focus, and code into playable, secure, and elegant experiences.
+
+---
+
+## 🌩️ About Me
+
+I’m a self-taught full-stack developer obsessed with transforming **learning and productivity** into **gamified, human-centered digital experiences**.
+
+I enjoy building tools that feel calm, smart, and slightly dark — like coding in a gothic castle during a thunderstorm.  
+My main interests revolve around **Cloud Computing**, **Information Security**, and **UX design that actually respects users**.
+
+---
+
+## 🚀 What I’m Working On
+
+### ⚡ CodeMind
+Gamified typing speed & accuracy trainer for programmers.  
+Features detailed error analysis, multilingual support, and an editor-like experience inspired by VS Code.
+
+**Tech Stack:**  
+HTML · CSS · JavaScript · CodeMirror · i18n  
+
+🔗 Live Demo: https://codeees.netlify.app
+
+---
+
+### 🧠 FocusMate-Cloud *(Work in Progress)*
+A UX-focused smart study companion featuring:
+- Smart break scheduling  
+- Virtual “Study With Me” sessions  
+- Cloud-powered backend architecture  
+
+**Tech Stack:**  
+Python · Flask · AWS Lambda · React  
+
+🔗 Repository: GitHub (private / WIP)
+
+---
+
+### ☁️ Currently Exploring
+- AWS CloudOps & Cloud Practitioner fundamentals  
+- API Testing & backend reliability  
+- Information Security & secure system design  
+
+---
+
+## 🎮 Featured Projects
+
+| Project | Description | Tech | Demo |
+|------|-----------|------|------|
+| **Drive Mad Clone** | High-speed addictive driving game | HTML5 Canvas · JS | https://aloukti.netlify.app |
+| **Escape Road** | Endless runner with smooth controls | HTML5 Canvas · JS | https://koussaygame.netlify.app |
+| **Kouss ay’s Weather** | Real-time weather app with dark mode | React · OpenWeather API | https://koussaysweather.netlify.app |
+| **Personal Portfolio** | Clean showcase of my work & journey | React · HTML · CSS | https://koussaymehdouani.netlify.app |
+
+---
+
+## 🛠️ Spellbook & Arsenal
+
+### Frontend
+- React  
+- JavaScript  
+- HTML5 / CSS3  
+- Tailwind CSS  
+- Canvas API  
+
+### Backend
+- Node.js  
+- Express  
+- Flask  
+- Python  
+
+### Cloud
+- AWS  
+- Microsoft Azure  
+
+### Security
+- ISO/IEC 27001:2022  
+- API Testing  
+- Secure Design Principles  
+
+### Tools
+- Git & GitHub  
+- VS Code  
+- Postman  
+- Figma  
+- CodeMirror  
+
+---
+
+## 🏆 Certifications (2025)
+
+- **ISO/IEC 27001:2022 Information Security Associate** – SkillFront  
+- **API Testing in JavaScript** – TestAutomationU  
+- **Host a Web App with Azure App Service** – Microsoft  
+- **Web Accessibility Basics** – Microsoft  
+- **Prompt Engineering with GitHub Copilot** – Microsoft  
+- **freeCodeCamp – Responsive Web Design (300h)**  
+- **freeCodeCamp – JavaScript Algorithms & Data Structures (300h)**  
+- **freeCodeCamp – Front End Libraries (300h)**  
+- **Python for Data Science (95.14%)** – Saylor Academy  
+- **Python Essentials 1** – Cisco Networking Academy  
+- **Human-Centered Design** – IDEO / Acumen Academy  
+
+📁 Certificates: *(Add Google Drive link here)*
+
+---
+
+## 📫 Connect
+
+- **GitHub:** @koussaymehdouani  
+- **Email:** koussaykaskoussa@gmail.com  
+- **LinkedIn:** (add link)
+
+---
+
+> “Every great interface is a quiet conversation… with a touch of real magic.”
